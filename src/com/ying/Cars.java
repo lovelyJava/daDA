@@ -6,8 +6,9 @@ package com.ying;
  * */
 public class Cars {
 	String brand;
-	int count;
-	void run() {
+	int amount;
+	float price;
+	void count() {
 		System.out.println("Here is papa class Cars");
 	}
 }
